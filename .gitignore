@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+
+*.exe
+*.test
+
+go.sum
+
+.DS_Store
+
+build.sh
+w3-server
